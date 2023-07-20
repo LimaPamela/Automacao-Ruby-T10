@@ -7,7 +7,7 @@ production: ENVIROMENT=production
 chrome: BROWSER=chrome
 firefox: BROWSER=firefox
 edge: BROWSER=edge
-chromeos: BROWSER=chrome_headless
+chrome_headles: BROWSER=chrome_headless
 headless: BROWSER=headless
 
 

@@ -1,4 +1,4 @@
-#require_relative 'prints.rb'
+require_relative 'prints.rb'
 
 Before do |scenario|
   
