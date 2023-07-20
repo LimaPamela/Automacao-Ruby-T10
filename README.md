@@ -1,1 +1,3 @@
-# Treinamento de Automação em Ruby, conduzido pela Qa.Coders
+# Treinamento de Automação em Ruby - QaCoders
+
+Projeto referente a turma 10, curso TQA - Quality Assurance 
